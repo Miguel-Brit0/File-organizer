@@ -1,8 +1,7 @@
 import os
 import shutil
 
-Inicio = input("Digite o caminho da pasta que deseja organizar: ")
-pasta = "caminho/da/pasta" #troque para o diretório desejado
+Pasta = input("Digite o caminho da pasta que deseja organizar: ")
 
 tipos_arquivos = {
        "Imagens": [".png", ".jpg", ".jpeg"],
