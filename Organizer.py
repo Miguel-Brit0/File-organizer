@@ -3,6 +3,8 @@ import shutil
 
 pasta = input("Digite o caminho da pasta que deseja organizar: ")
 
+ #Exemplo: C:/users/(Seu user)/Pasta
+
 tipos_arquivos = {
        "Imagens": [".png", ".jpg", ".jpeg"],
        "PDF": [".pdf", ".PDF"],
